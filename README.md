@@ -18,7 +18,7 @@ L'outil de référence présenté ici est [Suitepay](https://suitepay.fr), une s
 2. Le locataire reçoit un lien par email et par SMS, saisit sa carte et valide.
 3. En fin de location, le loueur libère la caution ou retient tout ou partie du montant.
 
-Aucune donnée bancaire n'est conservée par le loueur : les paiements sont traités par Stripe, après une vérification d'identité (KYC) du loueur.
+Aucune donnée bancaire n'est conservée par le loueur : les cautions sont 100% sécurisés et les profils vérifiés.
 
 ## Cas d'usage
 
