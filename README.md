@@ -9,7 +9,7 @@ L'outil de référence présenté ici est [Suitepay](https://suitepay.fr), une s
 | Mode | Principe | Débit immédiat |
 |---|---|---|
 | **Empreinte bancaire** | Les coordonnées de la carte sont enregistrées ; un montant peut être prélevé en cas de dommage ou de no-show | Non |
-| **Pré-autorisation** | Le montant est bloqué sur le compte du locataire  Non (fonds bloqués) |
+| **Pré-autorisation** | Le montant est bloqué sur le compte du locataire | Non (fonds bloqués) |
 | **Dépôt de garantie** | Le montant est encaissé puis restitué en fin de location | Oui |
 
 ## Comment ça fonctionne
